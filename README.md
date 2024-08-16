@@ -1,4 +1,9 @@
-### 안녕하세요! 김선영 입니다.
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsunbang123%2F&count_bg=%2353C2D7&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-- 저는 하나를 공부하면 열을 배우고자 하는 사람입니다. 필요하거나 부족한 지식을 탐구하는걸 좋아합니다.
-- 어떻게 하면 이 분야의 전문가가 될 수 있을까 늘 고민하면서 내게 필요한 것에 대해 스스로 질문을 하곤 합니다.
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://sunbang123.github.io/)](https://sunbang123.github.io/)
+	
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sunyoung-kim-86a54b283/)](https://www.linkedin.com/in/sunyoung-kim-86a54b283/)
+	
+[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/zzsza)](https://www.facebook.com/zzsza)
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ilikeksy99@gmail.com)](mailto:ilikeksy99@gmail.com)	
