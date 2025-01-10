@@ -32,4 +32,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sunbang123&show_icons=true&locale=en" alt="sunbang123" /></p>
 
-[wavingfooter](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=footer)
+![wavingfooter](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=footer)
