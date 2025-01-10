@@ -31,7 +31,7 @@
 
 📫 How to reach me **ilikeksy99@gmail.com**
 
-📄 Know about my experiences [김선영 notion 이력서](https://south-comic-1a2.notion.site/KIM-SUNYOUNG-2a426d8d4aa14eb2a686cfc1f3dc4474)
+📄 Know about my experiences [notion](https://south-comic-1a2.notion.site/KIM-SUNYOUNG-2a426d8d4aa14eb2a686cfc1f3dc4474)
 
 
 </div>
