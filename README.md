@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=header)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=header)
 
 <h1 align="center">Hi 👋, I'm Kim SunYeong</h1>
 <h3 align="center">A passionate fullstack developer from Korea</h3>
