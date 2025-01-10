@@ -13,7 +13,9 @@
 	
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sunbang123&show_icons=true&locale=en&layout=compact" alt="sunbang123" />
 
-<div style="padding-left:50px;">
+* * *
+
+<div>
 	
 🔭 I’m currently working on [winter study](https://github.com/sunbang123/sunha_report/wiki)
 
@@ -30,6 +32,8 @@
 <div>
 
 </div>
+
+* * *
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
