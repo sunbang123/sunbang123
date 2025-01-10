@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=slice&height=250&text=Kim&nbsp;Sunyeong&fontAlign=50&fontAlignY=40&color=gradient&desc=Hi!%20I'm%20A%20passionate%20fullstack%20developer%20from%20Korea&descAlignY=20&descAlign=60&fontColor=black)
+![waving](https://capsule-render.vercel.app/api?type=cylinder&height=200&text=Kim&nbsp;Sunyeong&fontAlign=50&fontAlignY=40&color=gradient&desc=Hi!%20I'm%20A%20passionate%20fullstack%20developer%20from%20Korea&descAlignY=20&descAlign=60&fontColor=black)
 
 <div align="center">	
 	
