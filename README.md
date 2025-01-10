@@ -25,7 +25,7 @@
 
 🌱 I’m currently learning **Unity, DirectX, Unreal, 정보처리기사**
 
-👨‍💻 All of my projects are available at [https://sunbang123.github.io/portfolio/](https://sunbang123.github.io/portfolio/)
+👨‍💻 All of my projects are available at [https://sunbang123.github.io/Portfolio/](https://sunbang123.github.io/Portfolio/)
 
 📝 I regularly write articles on [https://sunbang123.github.io/](https://sunbang123.github.io/)
 
