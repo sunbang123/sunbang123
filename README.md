@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:8ac6ff,100:a1d9ac&height=180&text=Hi%20👋,%20I'm%20Kim%20SunYeong&animation=fadeIn&fontColor=ffffff&fontSize=50" />
+<h1 align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:8ac6ff,100:a1d9ac&height=180&text=Hi%20👋,%20I'm%20Kim%20SunYeong&animation=fadeIn&fontColor=black&fontSize=50" />
 </h1>
 <h3 align="center">A passionate fullstack developer from Korea</h3>
 
