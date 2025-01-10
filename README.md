@@ -1,4 +1,7 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Kim&nbsp;Sunyeong&fontAlign=50&fontAlignY=40&color=gradient&desc=Hi!%20I'm%20A%20passionate%20fullstack%20developer%20from%20Korea&descAlignY=20&descAlign=60)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=header)
+
+<h1 align="center">Hi 👋, I'm Kim SunYeong</h1>
+<h3 align="center">A passionate fullstack developer from Korea</h3>
 
 <div align="center">	
 	
