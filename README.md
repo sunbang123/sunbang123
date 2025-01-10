@@ -9,7 +9,7 @@
 
 </div>
 
-<p><img width="200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sunbang123&show_icons=true&locale=en&layout=compact" alt="sunbang123" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sunbang123&show_icons=true&locale=en&layout=compact" alt="sunbang123" />
 
 <div style="padding-left:50px;">
 	
