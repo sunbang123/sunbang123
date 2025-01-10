@@ -16,13 +16,12 @@
 * * *
 
 <div align="center">
-	
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sunbang123&show_icons=true&locale=en&layout=compact" alt="sunbang123" />
 
-<br>
+<p></p>
 
-<div>
-	
+
 🔭 I’m currently working on [winter study](https://github.com/sunbang123/sunha_report/wiki)
 
 🌱 I’m currently learning **Unity, DirectX, Unreal, 정보처리기사**
@@ -35,7 +34,6 @@
 
 📄 Know about my experiences [김선영 notion 이력서](https://south-comic-1a2.notion.site/KIM-SUNYOUNG-2a426d8d4aa14eb2a686cfc1f3dc4474)
 
-<div>
 
 </div>
 
