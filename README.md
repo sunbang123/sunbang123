@@ -23,7 +23,7 @@
 
 🔭 I’m currently working on [winter study](https://github.com/sunbang123/sunha_report/wiki)
 
-🌱 I’m currently learning **Unity, DirectX, Unreal, OpenGL, 정보처리기사**
+🌱 I’m currently learning **Unity, Unreal, 정보처리기사, TOIEC**
 
 👨‍💻 All of my projects are available at [https://sunbang123.github.io/Portfolio/](https://sunbang123.github.io/Portfolio/)
 
