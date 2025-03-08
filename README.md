@@ -21,7 +21,8 @@
 <p></p>
 
 
-🔭 I’m currently working on [졸업 프로젝트](https://github.com/sunbang123/CapstoneProject)
+🔭 I’m currently working on [졸업 프로젝트](https://github.com/sunbang123/CapstoneProject), [Study_Report](https://github.com/sunbang123/Study_Report)
+
 
 🌱 I’m currently learning **Unity, Unreal, 정보처리기사, TOEIC**
 
