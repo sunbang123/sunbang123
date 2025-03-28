@@ -3,8 +3,8 @@
 <h3 align="center">A passionate fullstack developer from Korea</h3>
 
 <div align="center">	
-	
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsunbang123%2F&count_bg=%2353C2D7&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://sunbang123.github.io/)](https://sunbang123.github.io/)
+
+<a href="https://sunbang123.itch.io/"><img src="https://github.com/user-attachments/assets/a6f06149-1901-4a33-8a17-aae180702fd4" width="70px"></a> [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://sunbang123.github.io/)](https://sunbang123.github.io/)
  
 <h3 align="center">Connect with me:</h3>
 
