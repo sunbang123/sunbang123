@@ -26,7 +26,7 @@
 
 🌱 I’m currently learning **Unity, Unreal, 정보처리기사, TOEIC**
 
-👨‍💻 All of my projects are available at [sunbang123.github.io:projects](https://sunbang123.github.io/projects/)
+👨‍💻 All of my projects are available at [sunbang123.github.io:projects](https://sunbang123.github.io/project/)
 
 📝 I regularly write articles on [sunbang123.github.io](https://sunbang123.github.io/)
 
