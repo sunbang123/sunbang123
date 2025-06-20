@@ -21,14 +21,14 @@
 <p></p>
 
 
-🔭 I’m currently working on [졸업 프로젝트](https://github.com/sunbang123/CapstoneProject), [Study_Report](https://github.com/sunbang123/Study_Report), [bitcoin_trading_simulation](https://github.com/sunbang123/bitcoin_trading_simulation)
+🔭 I’m currently working on [Study_Report](https://github.com/sunbang123/Study_Report)
 
 
 🌱 I’m currently learning **Unity, Unreal, 정보처리기사, TOEIC**
 
-👨‍💻 All of my projects are available at [https://sunbang123.github.io/portfolio/](https://sunbang123.github.io/portfolio/)
+👨‍💻 All of my projects are available at [sunbang123.github.io:projects](https://sunbang123.github.io/projects/)
 
-📝 I regularly write articles on [https://sunbang123.github.io/](https://sunbang123.github.io/)
+📝 I regularly write articles on [sunbang123.github.io](https://sunbang123.github.io/)
 
 📫 How to reach me **ilikeksy99@gmail.com**
 
