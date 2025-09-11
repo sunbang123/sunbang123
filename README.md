@@ -16,7 +16,7 @@
 
 <div align="center">
 
-🔭 I’m currently working on [Study_Report](https://github.com/sunbang123/Study_Report)
+🔭 I’m currently working on [Study_Report](https://github.com/sunbang123/Study_Report), [구인 구직](https://github.com/sunbang123/study_report/wiki/Job_Search)
 
 
 🌱 I’m currently learning **Unity, Unreal, 정보처리기사, TOEIC**
