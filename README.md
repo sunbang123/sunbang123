@@ -16,10 +16,9 @@
 
 <div align="center">
 
-🔭 I’m currently working on [Study_Report](https://github.com/sunbang123/Study_Report), [구인 구직](https://github.com/sunbang123/study_report/wiki/Job_Search)
+🔭 I’m currently working on [반도체 영상처리](https://south-comic-1a2.notion.site/36e068d6f71e8018be6eda3126e3edae?v=36e068d6f71e809992da000c45ddb0ed&pvs=74)
 
-
-🌱 I’m currently learning **Unity, Unreal, TOEIC, Spine Animation**
+🌱 I’m currently learning **C++, C#, Python**
 
 👨‍💻 All of my projects are available at [sunbang123.github.io:projects](https://sunbang123.github.io/project/)
 
@@ -27,9 +26,7 @@
 
 📫 How to reach me **ilikeksy99@gmail.com**
 
-📄 Know about my experiences [notion](https://south-comic-1a2.notion.site/KIM-SUNYOUNG-2a426d8d4aa14eb2a686cfc1f3dc4474)
-
-
+📄 Know about my experiences [notion](https://south-comic-1a2.notion.site/2c4068d6f71e804387c6d7975a530281)
 
 ![wavingfooter](https://capsule-render.vercel.app/api?type=waving&color=0:8ac6ff,100:a1d9ac&height=180&section=footer)
 
