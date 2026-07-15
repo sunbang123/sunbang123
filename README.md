@@ -17,9 +17,9 @@
 
 <div align="center">
 
-🔭 I’m currently working on [학습노트](https://south-comic-1a2.notion.site/2da068d6f71e8004b2b2d643fd337933?v=2e4068d6f71e80f785aa000cddf71ba6)
+🔭 I’m currently working on [Hugging Face](https://south-comic-1a2.notion.site/39e068d6f71e80b6a267d3bae70a7c1d?v=39e068d6f71e80bab76c000c5102b417)
 
-🌱 I’m currently learning on Database, frontend & backend
+🌱 I’m currently learning on Database, frontend & backend, AI Deep Learning
 
 👨‍💻 All of my projects are available at [sunbang123.github.io:projects](https://sunbang123.github.io/project/)
 
