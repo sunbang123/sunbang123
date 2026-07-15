@@ -27,7 +27,7 @@
 
 📫 How to reach me **ilikeksy99@gmail.com**
 
-📄 Know about my experiences [notion](https://south-comic-1a2.notion.site/2c4068d6f71e804387c6d7975a530281)
+📄 Know about my experiences [notion](https://south-comic-1a2.notion.site/38b068d6f71e809f9427e616f47d708c?pvs=74)
 
 🤗 My hugging face profile is [@huggingface/sunbang123](https://huggingface.co/Sunbang123)
 
